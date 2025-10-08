@@ -1,6 +1,0 @@
-implementaciones\DoubleLinkedList$ListIterator.class
-interfaces\IList.class
-excepciones\ListException.class
-implementaciones\DoubleLinkedList$NodoDoble.class
-interfaces\IDoubleList.class
-implementaciones\DoubleLinkedList.class
